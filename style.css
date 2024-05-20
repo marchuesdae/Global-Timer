@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin-top: 10px;
+  }
+  
+  #clock {
+    border: 2px solid black;
+    padding: 10px; 
+    border-radius: 20px;
+    background-color: brown;
+    color:#72b7b3;
+  }
+
+  .bordered-box {
+    border-radius: 2%;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+  }
